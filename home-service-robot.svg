@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="552" viewBox="0 0 880 552" role="img" aria-labelledby="title desc">
+<title id="title">Home Service Robot</title><desc id="desc">Speech and visual perception inform ROS task control, which coordinates autonomous navigation and robot-arm grasping. Sensor feedback supports task execution.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0 0L8 4L0 8" fill="none" stroke="#517a9d" stroke-width="1.5"/></marker></defs>
+<rect width="880" height="552" rx="24" fill="#f1f5f8"/>
+<g font-family="Arial, sans-serif" fill="#20354b"><text x="40" y="53" font-size="30" font-weight="700">HOME SERVICE ROBOT</text><text x="40" y="82" font-size="17" fill="#667e91">Perception, task control and physical action</text></g>
+<!-- Mobile platform and arms, drawn from the supplied system poster. -->
+<g transform="translate(22 96)" stroke-linecap="round" stroke-linejoin="round">
+<ellipse cx="136" cy="405" rx="111" ry="16" fill="#dce5ed"/>
+<path d="M61 352V391Q136 429 211 391V352" fill="#253c50" stroke="#20354b" stroke-width="5"/>
+<ellipse cx="136" cy="352" rx="75" ry="22" fill="#6d8aa0" stroke="#20354b" stroke-width="5"/>
+<path d="M72 198V350M200 198V350M72 295H200" fill="none" stroke="#6d8aa0" stroke-width="9"/>
+<ellipse cx="136" cy="292" rx="77" ry="14" fill="#d2b484" stroke="#596e7d" stroke-width="4"/>
+<path d="M90 278L104 229H170L180 278Z" fill="#20354b"/>
+<path d="M106 235H163L171 270H98Z" fill="#8fc6e7"/><path d="M82 280H188" stroke="#20354b" stroke-width="8"/>
+<ellipse cx="136" cy="198" rx="81" ry="16" fill="#d2b484" stroke="#596e7d" stroke-width="4"/>
+<path d="M136 191V65" stroke="#667e91" stroke-width="12"/>
+<rect x="95" y="46" width="82" height="25" rx="9" fill="#20354b"/><circle cx="115" cy="59" r="6" fill="#86c6e6"/><circle cx="157" cy="59" r="6" fill="#86c6e6"/>
+<path d="M116 112L70 139L37 98M156 112L202 139L234 98" fill="none" stroke="#759aab" stroke-width="17"/>
+<g fill="#f4f8fa" stroke="#35556e" stroke-width="5"><circle cx="116" cy="112" r="11"/><circle cx="70" cy="139" r="11"/><circle cx="156" cy="112" r="11"/><circle cx="202" cy="139" r="11"/></g>
+<path d="M37 98L22 77L31 61M37 98L51 78L44 63M234 98L220 78L227 62M234 98L248 78L241 62" fill="none" stroke="#bd685a" stroke-width="8"/>
+</g>
+<g stroke="#517a9d" stroke-width="3" fill="none" marker-end="url(#arrow)"><path d="M435 211V254"/><path d="M710 211V254"/><path d="M435 340V388"/><path d="M710 340V388"/></g>
+<g font-family="Arial, sans-serif" text-anchor="middle">
+<g fill="#fff" stroke="#c8d8e5" stroke-width="2"><rect x="316" y="125" width="240" height="86" rx="15"/><rect x="588" y="125" width="250" height="86" rx="15"/></g>
+<g fill="#20354b" font-size="28" font-weight="700"><text x="436" y="160">Speech</text><text x="713" y="160">Vision</text></g>
+<g fill="#667e91" font-size="18"><text x="436" y="187">Human interaction</text><text x="713" y="187">Object recognition</text></g>
+<rect x="316" y="260" width="522" height="80" rx="15" fill="#254f73"/>
+<text x="577" y="296" fill="#fff" font-size="29" font-weight="700">ROS task control</text><text x="577" y="322" fill="#d3e7f6" font-size="18">Top-down task flow &amp; module coordination</text>
+<g fill="#e1edf2" stroke="#bbd0db" stroke-width="2"><rect x="316" y="395" width="240" height="88" rx="15"/><rect x="588" y="395" width="250" height="88" rx="15"/></g>
+<g fill="#20354b" font-size="27" font-weight="700"><text x="436" y="432">Navigation</text><text x="713" y="432">Grasping</text></g>
+<g fill="#667e91" font-size="18"><text x="436" y="461">Mapping &amp; localization</text><text x="713" y="461">Inverse kinematics</text></g>
+<text x="577" y="520" fill="#667e91" font-size="17">Coordinated execution with sensor feedback</text>
+</g></svg>

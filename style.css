@@ -53,3 +53,5 @@ h2,#about-me h2{font-family:var(--font-display);font-size:33px;font-weight:600;l
 
 /* Match the reference Links description cascade and card height. */
 .friend-card .friend-meta{font-size:17px;line-height:1.47;letter-spacing:-.01em;margin:0}
+
+.project .project-honors{list-style:none;padding:0;margin:12px 0 0;color:#80521b;font-size:12px;line-height:1.5;letter-spacing:-.224px}.project-honors li+li{margin-top:4px}.home-robot .pub-preview img{object-fit:contain;background:#f1f5f8}
