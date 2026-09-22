@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="552" viewBox="0 0 880 552" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="444" viewBox="0 108 880 444" role="img" aria-labelledby="title desc">
 <title id="title">Home Service Robot</title><desc id="desc">Speech and visual perception inform ROS task control, which coordinates autonomous navigation and robot-arm grasping. Sensor feedback supports task execution.</desc>
 <defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0 0L8 4L0 8" fill="none" stroke="#517a9d" stroke-width="1.5"/></marker></defs>
 <rect width="880" height="552" rx="24" fill="#f1f5f8"/>
-<g font-family="Arial, sans-serif" fill="#20354b"><text x="40" y="53" font-size="30" font-weight="700">HOME SERVICE ROBOT</text><text x="40" y="82" font-size="17" fill="#667e91">Perception, task control and physical action</text></g>
+
 <!-- Mobile platform and arms, drawn from the supplied system poster. -->
 <g transform="translate(22 96)" stroke-linecap="round" stroke-linejoin="round">
 <ellipse cx="136" cy="405" rx="111" ry="16" fill="#dce5ed"/>
